@@ -1,4 +1,5 @@
-# Apex Reactive Store (Global State Management For React App)
+# Apex Reactive Store 
+
 - clean and easy to use
 - like react context api but more easy to use
 
@@ -9,7 +10,7 @@
 ## installation
 
 ```
-apex-reactive-store
+npm i apex-reactive-store
 ```
 
 ## Example
