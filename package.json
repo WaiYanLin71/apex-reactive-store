@@ -1,5 +1,5 @@
 {
-  "name": "apxex-reactive-store",
+  "name": "apex-reactive-store-v2",
   "version": "1.0.0",
   "description": "mini react global state management",
   "main": "apollo.js",
@@ -18,5 +18,6 @@
   "homepage": "https://github.com/WaiYanLin71/apex-reactive-store#readme",
   "dependencies": {
     "react": "^18.2.0"
-  }
+  },
+  "devDependencies": {}
 }
