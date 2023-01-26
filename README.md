@@ -32,10 +32,16 @@ const useApexStore = defineApex({
  } 
 })
 
+export default useApexStore;
+```
+
+use store
+
+```js
+import useApexStore from './store.js';
+
 const [sate, dispatch] = useApexStore() //sate => initial value, dispatch => for change state
-
 dispatch({type:'store':data:{id,name,completed})
-
 ```
 
 ## Todo App with apex store
