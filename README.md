@@ -1,7 +1,7 @@
 # Apex Reactive Store 
 
 - clean and easy to use
-- like react context api but more easy to use
+- tiny and powerfull and reactive
 
 ## Example Todo App
 - Repo (https://github.com/WaiYanLin71/react-todo-with-apex)
