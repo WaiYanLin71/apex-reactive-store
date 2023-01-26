@@ -4,8 +4,8 @@
 - like react context api but more easy to use
 
 ## Example Todo App
-- Repo (https://github.com/WaiYanLin71/react-to-do-with-apollo-reactive-store)
-- Demo (https://waiyanlin71.github.io/react-to-do-with-apollo-reactive-store/)
+- Repo (https://github.com/WaiYanLin71/react-todo-with-apex)
+- Demo (https://waiyanlin71.github.io/react-todo-with-apex)
 
 ## installation
 
